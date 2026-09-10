@@ -2694,6 +2694,14 @@ Gherkin:
   ace_mode: gherkin
   color: "#5B2063"
   language_id: 76
+Ghul:
+  type: programming
+  color: "#3EAF7C"
+  extensions:
+  - ".ghul"
+  tm_scope: source.ghul
+  ace_mode: text
+  language_id: 891031081
 Git Attributes:
   type: data
   color: "#F44D27"

@@ -551,6 +551,9 @@
 [submodule "vendor/grammars/gettext.tmbundle"]
 	path = vendor/grammars/gettext.tmbundle
 	url = https://github.com/textmate/gettext.tmbundle
+[submodule "vendor/grammars/ghul-grammar"]
+	path = vendor/grammars/ghul-grammar
+	url = https://github.com/degory/ghul-grammar.git
 [submodule "vendor/grammars/gnuplot-tmbundle"]
 	path = vendor/grammars/gnuplot-tmbundle
 	url = https://github.com/mattfoster/gnuplot-tmbundle

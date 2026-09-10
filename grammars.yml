@@ -441,6 +441,8 @@ vendor/grammars/gemini-vscode:
 - source.gemini
 vendor/grammars/gettext.tmbundle:
 - source.po
+vendor/grammars/ghul-grammar:
+- source.ghul
 vendor/grammars/gnuplot-tmbundle:
 - source.gnuplot
 vendor/grammars/go-tmbundle:
